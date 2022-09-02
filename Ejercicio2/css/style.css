@@ -1,0 +1,28 @@
+th{
+    background-color: rgb(0, 77, 0);
+    color: rgb(212, 250, 136);
+    font-weight: bold;
+}
+
+.fila{
+    background-color: rgb(165, 253, 165);
+}
+
+.filados{
+    background-color: rgb(107, 172, 107);
+}
+
+table{
+  border-left: 2px solid black;
+  border-top: 2px solid black;
+  border-right: 2px solid grey;
+  border-bottom: 2px solid grey;
+}
+
+th, td{
+    border: 1px solid black;
+}
+
+.center{
+    text-align: center;
+}
