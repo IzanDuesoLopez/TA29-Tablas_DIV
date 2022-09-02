@@ -5,5 +5,6 @@ Ejercicio2: https://izanduesolopez.github.io/TA29-Tablas_DIV/Ejercicio2/deportes
 Ejercicio3: https://izanduesolopez.github.io/TA29-Tablas_DIV/Ejercicio3/tabla.html  
 Ejercicio4: https://izanduesolopez.github.io/TA29-Tablas_DIV/Ejercicio4/html/tablafondo.html  
 Ejercicio5: https://izanduesolopez.github.io/TA29-Tablas_DIV/Ejercicio5/tablas.html  
+Ejercicio6: https://izanduesolopez.github.io/TA29-Tablas_DIV/Ejercicio6/tabla.html
 
 
